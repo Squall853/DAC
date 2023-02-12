@@ -1,3 +1,0 @@
-SQL Project:
-https://console.cloud.google.com/bigquery
-dataset: ga_session
